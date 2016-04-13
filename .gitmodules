@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/pierreca/pierreca.github.io.git
+	branch = master
