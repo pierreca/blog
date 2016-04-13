@@ -1,0 +1,19 @@
+[about]
+    Name = "About"
+    URL = "/about-me"
+    
+[posts]
+    Name = "Blog"
+    URL = "/post"
+
+[projects]
+    Name = "Projects"
+    URL = "/projects"
+
+[aviation]
+    Name = "Aviation"
+    URL = "/aviation"
+    
+[reads]
+    Name = "Reads"
+    URL = "/reads"

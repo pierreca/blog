@@ -1,0 +1,14 @@
+baseurl = "http://pierreca.github.io/"
+languageCode = "en-us"
+title = "Making and Flying"
+copyright = "(c) 2016 Pierre Cauchois"
+metaDataFormat = "yaml"
+theme = "hyde-y"
+
+[params]
+    brand = "Making and flying"
+    topline = "Pierre Cauchois"
+    sidebar = "left"
+    github = "pierreca"
+    twitter = "pierreca"
+    linkedin = "pierrecauchois"
