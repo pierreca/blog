@@ -30,10 +30,10 @@ Aircrafts
 
 ### Checked Out
 * Cessna 162
-* Cessna 172N
-* Cessna 172S
-* Cessna 182S
+* Cessna 172 (N,S)
+* Cessna 182 (S,T)
 * Citabria 7KCAB
+* Piper Arrow II
 
 ### Flown with CFI
 * Citabria 7GCBC
@@ -45,6 +45,7 @@ Aircrafts
 * Piper PA-22/20 Pacer
 * LET L-13AC Blanik (glider)
 * Politechnika Warszawska PW-6U (glider)
+* Cessna 185 (Floatplane)
 
 ### Right Seat (passenger)
 * Cirrus SR22T
@@ -93,6 +94,22 @@ Airports
 * Goheen (W52) [grass]
 * Skykomish (S88) [grass]
 * Lake Wenatchee State (27W) [grass]
+* Grand Coulee Dam (3W7)
+* Deer Park (KDEW)
+* Sullivan Lake State (09S)
+* Olympia Rgnl (KOLM)
+
+### Idaho
+* Priest Lake USFS (67S)
+* Cavanaugh Bay (66S)
+* Sandpoint (KSZT)
+* Johnson Creek (3U2)
+* Smiley Creek (U87)
+* Lewiston (KLWS)
+* Cascade (U70)
+
+### Oregon
+* Troutdale (KTTD)
 
 ### California
 * Reid-Hillview (KRHV)
@@ -111,6 +128,9 @@ Airports
 * Chelatna Lake
 * Larson Lake
 * Christiansen Lake (AK8)
+
+### Louisiana
+* Southern Seaplanes (65LA)
 
 ### Iceland
 * Reykjavik (BIRK)
@@ -151,7 +171,9 @@ Books
 * The Last Bush Pilots (Eric Auxier)
 * Bush Pilot Way (Bill Quirk)
 * Vol de Nuit (Antoine de St Exupery)
+* The Compleat Taildragger Pilot (Harvey S. Plourde)
+* The Right Stuff (Tom Wolfe)
 
 ### TODO
-- Beyond the Checkride (Howard Fried)
-- Stick and Rudder (Wolfgang Langewiesche)
+* Beyond the Checkride (Howard Fried)
+* Stick and Rudder (Wolfgang Langewiesche)
