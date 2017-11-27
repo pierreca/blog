@@ -11,17 +11,24 @@ Training/Endorsements
 * Private Pilot License (Rainier Flight Service)
 * Mountain Flying Course (Rainier Flight Service)
 * High-Performance Endorsement (Rainier Flight Service)
+* Complex Endorsement (Spanaflight)
 * Tailwheel Endorsement (Aerodynamic Aviation)
 * Spin Training (Aerodynamic Aviation)
 * Seaplane Rating (Alaska Floats & Skis)
 * Bush Flying Course (Alaska Floats & Skis)
 * Glider intro flights (Puget Sound Soaring Association)
 
+Adventures
+----------
+* Alaska Bush & Seaplane training
+* Idaho's nicest camping strips
+* [Fly around Maui County (Hawaii)](./maui_county.md)
+* [Tips for taking pictures from an aircraft](./airplane_photography.md)
+
 ### TODO
-- Complex Endorsement
-- IFR Rating
-- Commercial Rating
-- Upset and unusual attitude recovery
+* IFR Rating
+* Commercial Rating
+* Upset and unusual attitude recovery
 
 Aircrafts
 ---------
@@ -131,6 +138,11 @@ Airports
 
 ### Louisiana
 * Southern Seaplanes (65LA)
+
+### Hawaii
+* Kahului (PHOG/OGG)
+* Kalaupapa (PHLU/LUP)
+* Hana (PHHN/HNM)
 
 ### Iceland
 * Reykjavik (BIRK)
