@@ -22,8 +22,8 @@ Adventures
 ----------
 * Alaska Bush & Seaplane training
 * Idaho's nicest camping strips
-* [Fly around Maui County (Hawaii)](./maui_county.md)
-* [Tips for taking pictures from an aircraft](./airplane_photography.md)
+* [Fly around Maui County (Hawaii)](./maui_county)
+* [Tips for taking pictures from an aircraft](./airplane_photography)
 
 ### TODO
 * IFR Rating
