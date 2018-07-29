@@ -2,7 +2,7 @@
 title: "aviation"
 description: "Aviation-related stuff that I do: where I fly, what I fly, etc."
 date: "2015-09-16"
-categories: 
+categories:
   - "aviation"
 ---
 
@@ -33,7 +33,8 @@ Adventures
 Aircrafts
 ---------
 ### Owned
-* Maule M5-180C
+* Maule M5-180C (Sold)
+* Cessna 172D (1964)
 
 ### Checked Out
 * Cessna 162
@@ -56,7 +57,7 @@ Aircrafts
 
 ### Right Seat (passenger)
 * Cirrus SR22T
-* Bonanza A36
+* Bonanza V35
 
 Airports
 --------
@@ -105,6 +106,7 @@ Airports
 * Deer Park (KDEW)
 * Sullivan Lake State (09S)
 * Olympia Rgnl (KOLM)
+* Roche Harbor (WA09)
 
 ### Idaho
 * Priest Lake USFS (67S)
@@ -150,7 +152,6 @@ Airports
 ### TODO
 - Langley (W10)
 - Cle Elum (S93)
-- Roche Harbor (W39)
 - Cedars North (W58)
 
 Navigation/Radio

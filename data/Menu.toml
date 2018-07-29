@@ -1,7 +1,7 @@
 [about]
     Name = "About"
     URL = "/about-me"
-    
+
 [posts]
     Name = "Blog"
     URL = "/post"
@@ -13,7 +13,11 @@
 [aviation]
     Name = "Aviation"
     URL = "/aviation"
-    
+
 [reads]
     Name = "Reads"
     URL = "/reads"
+
+[podcasts]
+    Name = "Podcasts"
+    URL = "/podcasts"

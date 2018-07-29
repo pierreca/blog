@@ -8,8 +8,9 @@ categories:
 
 Hardware
 --------
+* [LED-lighted TAC chart for real-time weather display](https://github.com/pierreca/ledtac) [Hackaday.io](https://hackaday.io/project/28354-lighted-tac-chart-with-weather-information)
 * [Dashboards and utilities for jenkins and github](https://github.com/pierreca/dashboards)
-* [LED Matrix board driven by a Spark Core](https://github.com/pierreca/SparkLedMatrix)
+* [LED Matrix board driven by a Spark Core](https://github.com/pierreca/SparkLedMatrix) [Hackaday.io](https://hackaday.io/project/28362-particle-core-led-matrix)
 * [Simple 3D model of the Intel Galileo](https://github.com/pierreca/Galileo)
 * [LightClock v2](https://github.com/pierreca/LightClock) [Hackster.io](http://www.hackster.io/pierreca/lightclock)| [Hackaday.io](https://hackaday.io/project/2330-LightClock)
 * [Raspberry-Pi Home Gateway (codename Tyler)](https://github.com/pierreca/Tyler)
