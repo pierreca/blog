@@ -6,14 +6,6 @@ categories:
   - "podcasts"
 ---
 
-Management & Leadership
------------------------
-
-- HBR Ideacast
-- Dear HBR
-- Developer Tea
-
-
 Technical & Code
 ----------------
 
@@ -21,10 +13,29 @@ Technical & Code
 - Python Bytes
 - JS Party
 - Go Time
-- Embedded
 - Test & Code
 - Hanselminutes
 - Coding Blocks
+
+Hardware
+--------
+- The Amp Hour
+- The Macrofab Engineering Podcast
+- Embedded.fm
+
+Infosec
+-------
+- Unnamed Reverse Engineering Podcast
+- Darknet Diaries
+- Malicious Life
+- Hackable
+
+Management & Leadership
+-----------------------
+
+- HBR Ideacast
+- Dear HBR
+- Developer Tea
 
 Ideas and Culture
 -----------------

@@ -1,12 +1,12 @@
-baseurl = "http://pierreca.github.io/"
+baseurl = "//pierreca.github.io/"
 languageCode = "en-us"
-title = "Making and Flying"
+title = "Making, Flying and Diving"
 copyright = "(c) 2016 Pierre Cauchois"
 metaDataFormat = "yaml"
 theme = "hyde-y"
 
 [params]
-    brand = "Making and flying"
+    brand = "Making, Flying and Diving"
     topline = "Pierre Cauchois"
     sidebar = "left"
     github = "pierreca"

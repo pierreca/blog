@@ -18,18 +18,28 @@ Hardware
 * [.NET Gadgeteer Meteo Station](http://blogs.msdn.com/b/pierreca/archive/2012/07/11/prototyping-a-connected-object-using-the-net-gadgeteer-the-example-of-a-steampunk-meteo-station.aspx)
 * [Engine Coffee Table](http://pierreca.github.io/blog/2014/08/12/building-a-coffee-table-with-engine-blocks/)
 * [A list of interesting places for makers around Seattle](http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle/)
+* [Nixie Tube Clock](https://github.com/pierreca/nixie-clock)
+* [Logorrhea: A VS Code Extension to highlight logs](https://github.com/pierreca/logorrhea)
+* Azure IoT Hub and Azure IoT Hub Provisioning Service logos blinking pins
+* 4017 circuit LED "chaser"
+* 595 shift register + 74LS47 7-segment display driver
 * Transparent Whiteboard
 * Netduino-Mini Crawler Bot
 * Arduino Crawler Bot
 * Makelangelo 3
 * Lynxmotion Johnny-5
 * OBD-II + GPS Car App
-* Peggy2 Home Display w/ XBee
+
+### Woodworking
+* Nixie Tube Clock
+* Pocket Knife (Kit)
+* Hunting Knife (Kit, Woodcraft class, Knife Making with Robb Gray)
+* Slim-line Pen (Kit, Woodcraft class, Pen Turning 101 with John Jones)
+* Toolbox (Woodcraft class: Sawdust Therapy I w/ Steve Dando)
 
 ### Ideas dump
 * 3D Flight GPS Log with Excel
 * Arduino Flight Logger
-* Nixie Tube Clock
 
 Web
 ---

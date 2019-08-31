@@ -21,3 +21,7 @@
 [podcasts]
     Name = "Podcasts"
     URL = "/podcasts"
+
+[diving]
+    Name = "Diving"
+    URL = "/diving"
