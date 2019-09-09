@@ -18,7 +18,7 @@ Hardware
 * [.NET Gadgeteer Meteo Station](http://blogs.msdn.com/b/pierreca/archive/2012/07/11/prototyping-a-connected-object-using-the-net-gadgeteer-the-example-of-a-steampunk-meteo-station.aspx)
 * [Engine Coffee Table](http://pierreca.github.io/blog/2014/08/12/building-a-coffee-table-with-engine-blocks/)
 * [A list of interesting places for makers around Seattle](http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle/)
-* [Nixie Tube Clock](https://github.com/pierreca/nixie-clock)
+* Nixie Tube Clock: [Hackaday](https://hackaday.io/project/167547-nixie-tube-clock) [Github](https://github.com/pierreca/nixie-clock)
 * [Logorrhea: A VS Code Extension to highlight logs](https://github.com/pierreca/logorrhea)
 * Azure IoT Hub and Azure IoT Hub Provisioning Service logos blinking pins
 * 4017 circuit LED "chaser"
