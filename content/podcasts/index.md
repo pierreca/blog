@@ -6,16 +6,11 @@ categories:
   - "podcasts"
 ---
 
-Technical & Code
+Software
 ----------------
 
-- Talk Python to Me
-- Python Bytes
-- JS Party
 - Go Time
-- Test & Code
-- Hanselminutes
-- Coding Blocks
+- JS Party
 
 Hardware
 --------
@@ -25,21 +20,21 @@ Hardware
 
 Infosec
 -------
-- Unnamed Reverse Engineering Podcast
 - Darknet Diaries
 - Malicious Life
+- Unnamed Reverse Engineering Podcast
 - Hackable
 
-Management & Leadership
------------------------
+Dropped Off
+-----------
 
+- Test & Code
+- Coding Blocks
+- Talk Python to Me
+- Python Bytes
 - HBR Ideacast
 - Dear HBR
 - Developer Tea
-
-Ideas and Culture
------------------
-
 - Hidden Brain (NPR)
 - TED Radio Hour
 - Freakonomics Radio

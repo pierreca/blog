@@ -6,27 +6,16 @@ categories:
   - "reads"
 ---
 
-Started
--------
-* Lean Startup (Eric Ries)
-* Thinking Fast and Slow (Daniel Kahneman)
-* The Four Steps to the Epiphany (Steve Blank)
-* The Art of Invisibility (Kevin Mitnick)
-* Managing Humans
-* Good Clean Fun: Misadventures in Sawdust At Offerman Woodshop (Nick Offerman)
-
 Finished
 --------
 
-## Work, Tech and Making
+## Management & Tech
 
 * Hooked: How to Build Habit-Forming Products (Nir Eyal)
 * Stop the BS (Shane Mac)
 * The Burning Entrepreneur (Brad Feld)
 * Hit Refresh (Satya Nadella)
 * Mindset: The New Psychology of Success (Carol S. Dweck)
-* The Hardware Hacker (Andrew "bunnie" Huang)
-* Maker Pro: Essays on Making a Living as a Maker (John Baichtal & others)
 * Non-Violent Communication (Marshall B. Rosenberg)
 * Tribal Leadership (Dave Logan, John King, Halee Fischer-Wright)
 * Never Split the Difference: Negotiating As If Your Life Depended On It (Chris Voss)
@@ -39,8 +28,16 @@ Finished
 * The Power of When (Michael Breus)
 * The Mythical Man-Month (Fred Brooks)
 * The Effective Executive (Peter Drucker)
-* Every Tool's a Hammer: Life is What You Make It (Adam Savage)
 * Accelerate: The Science of Lean Software and Devops (Nicole Forsgren, PhD with Jez Humble and Gene Kim)
+* Designing Distributed Systems (Brendan Burns)
+* Zero Trust Networks: Building Secure Systems in Untrusted Networks (Evan Gilman, Doug Barth)
+
+## Making
+
+* The Hardware Hacker (Andrew "bunnie" Huang)
+* Maker Pro: Essays on Making a Living as a Maker (John Baichtal & others)
+* Every Tool's a Hammer: Life is What You Make It (Adam Savage)
+* Good Clean Fun: Misadventures in Sawdust At Offerman Woodshop (Nick Offerman)
 
 ## Fiction
 
@@ -58,8 +55,18 @@ Finished
 * In the Beginning was the Command Line (Neal Stephenson)
 * Daniel's Running Formula (Jack Daniels)
 * Hacks (Donna Brazile)
+* Mindf*ck (Christopher Wylie)
+* Permanent Record (Edward Snowden)
 
-Next
+Started
+-------
+* Lean Startup (Eric Ries)
+* Thinking Fast and Slow (Daniel Kahneman)
+* The Four Steps to the Epiphany (Steve Blank)
+* The Art of Invisibility (Kevin Mitnick)
+* Managing Humans: Biting and Humorous Tales of a Software Engineering Manager (Michael Lopp)
+
+Future
 ----
 * Principles: Life and Work (Ray Dalio)
 * High Output Management (Andrew S. Grove)
@@ -67,7 +74,6 @@ Next
 * Resilient Management (Lara Hogan)
 * Moonwalking with Einstein (Joshua Foer)
 * Win Forever (Pete Carroll)
-* Hacks (Donna Brazile)
 * The Road to Character (David Brooks)
 * The Hard Thing about Hard Things (Ben Horowitz)
 * Dynamics of Software Development (Michele McCarthy, Jim McCarthy)

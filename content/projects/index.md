@@ -8,6 +8,7 @@ categories:
 
 Hardware
 --------
+* [Maple+Neopixel Clock](https://github.com/pierreca/maple-neopixel-clock)
 * [LED-lighted TAC chart for real-time weather display](https://github.com/pierreca/ledtac) [Hackaday.io](https://hackaday.io/project/28354-lighted-tac-chart-with-weather-information)
 * [Dashboards and utilities for jenkins and github](https://github.com/pierreca/dashboards)
 * [LED Matrix board driven by a Spark Core](https://github.com/pierreca/SparkLedMatrix) [Hackaday.io](https://hackaday.io/project/28362-particle-core-led-matrix)
@@ -20,9 +21,9 @@ Hardware
 * [A list of interesting places for makers around Seattle](http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle/)
 * Nixie Tube Clock: [Hackaday](https://hackaday.io/project/167547-nixie-tube-clock) [Github](https://github.com/pierreca/nixie-clock)
 * [Logorrhea: A VS Code Extension to highlight logs](https://github.com/pierreca/logorrhea)
-* Azure IoT Hub and Azure IoT Hub Provisioning Service logos blinking pins
-* 4017 circuit LED "chaser"
-* 595 shift register + 74LS47 7-segment display driver
+* [Azure IoT Hub](https://github.com/pierreca/circuits/tree/master/iothub-badge) and [Azure IoT Hub Provisioning Service](https://github.com/pierreca/circuits/tree/master/dps-badge) blinky mini-badges
+* [4017 circuit LED "chaser"](https://github.com/pierreca/circuits/tree/master/4017-chaser)
+* [595 shift register + 74LS47 7-segment display driver](https://github.com/pierreca/circuits/tree/master/7-seg-driver)
 * Transparent Whiteboard
 * Netduino-Mini Crawler Bot
 * Arduino Crawler Bot
@@ -36,10 +37,7 @@ Hardware
 * Hunting Knife (Kit, Woodcraft class, Knife Making with Robb Gray)
 * Slim-line Pen (Kit, Woodcraft class, Pen Turning 101 with John Jones)
 * Toolbox (Woodcraft class: Sawdust Therapy I w/ Steve Dando)
-
-### Ideas dump
-* 3D Flight GPS Log with Excel
-* Arduino Flight Logger
+* More Pens (Slimline, Wall-Street II kits)
 
 Web
 ---
