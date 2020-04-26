@@ -1,3 +1,11 @@
+---
+title: "Taking Pictures from Aircrafts"
+description: "What I learned trying to take pictures while in the air"
+date: "2015-09-16"
+categories:
+  - "aviation"
+---
+
 # Tips for taking pictures from airplanes and helicopters
 
 - **Wear dark clothes:** bright/light-colored clothes will create reflections on the windows

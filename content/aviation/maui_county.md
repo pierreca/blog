@@ -1,3 +1,11 @@
+---
+title: "Flying around Maui"
+description: "My experience with Maui Flight Academy"
+date: "2015-09-16"
+categories:
+  - "aviation"
+---
+
 # Flying around Maui, Molokai and Lanai
 
 *If like me you would like to fly yourself around Maui, I highly recommend [Maui Aviators](http://www.mauiaviators.com/) at Kahului. The following is pretty much my recollection of the flight I did with them that includes a checkout and a slightly customized version of their [Circle Maui County](http://www.mauiaviators.com/circle-maui-county) flight with instruction tidbits I got from the CFI I flew with, Steve Ludlow.*

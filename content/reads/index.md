@@ -1,16 +1,14 @@
 ---
-title: "reads"
+title: "Reads"
 description: "Books I've read - Books I want to read"
-date: 2015-09-17
+date: 2020-4-25
 categories:
-  - "reads"
+  - "reading"
 ---
 
-Finished
---------
+# Finished
 
-## Management & Tech
-
+### Management & Tech
 * Hooked: How to Build Habit-Forming Products (Nir Eyal)
 * Stop the BS (Shane Mac)
 * The Burning Entrepreneur (Brad Feld)
@@ -32,22 +30,19 @@ Finished
 * Designing Distributed Systems (Brendan Burns)
 * Zero Trust Networks: Building Secure Systems in Untrusted Networks (Evan Gilman, Doug Barth)
 
-## Making
-
+### Making
 * The Hardware Hacker (Andrew "bunnie" Huang)
 * Maker Pro: Essays on Making a Living as a Maker (John Baichtal & others)
 * Every Tool's a Hammer: Life is What You Make It (Adam Savage)
 * Good Clean Fun: Misadventures in Sawdust At Offerman Woodshop (Nick Offerman)
 
-## Fiction
-
+### Fiction
 * Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
 * The Peripheral (William Gibson)
 * The Martian (Andy Weir)
 * Ready Player One (Ernest Cline)
 
-## History & Politics
-
+### History & Politics
 * No Place to Hide (Glenn Greenwald)
 * Super Freakonomics (Steven D. Levitt - Stephen J. Dubner)
 * Think Like a Freak (Steven D. Levitt - Stephen J. Dubner)
@@ -58,16 +53,16 @@ Finished
 * Mindf*ck (Christopher Wylie)
 * Permanent Record (Edward Snowden)
 
-Started
--------
+# Started
 * Lean Startup (Eric Ries)
 * Thinking Fast and Slow (Daniel Kahneman)
 * The Four Steps to the Epiphany (Steve Blank)
 * The Art of Invisibility (Kevin Mitnick)
 * Managing Humans: Biting and Humorous Tales of a Software Engineering Manager (Michael Lopp)
+* Thinking with a pencil (Hennan Nelms)
+* Tribe of Hackers (Marcus J. Carey, Jennifer Jin)
 
-Future
-----
+# Future
 * Principles: Life and Work (Ray Dalio)
 * High Output Management (Andrew S. Grove)
 * The Making of a Manager: What to Do When Everyone Looks at You (Julie Zhuo)
@@ -79,3 +74,4 @@ Future
 * Dynamics of Software Development (Michele McCarthy, Jim McCarthy)
 * Reamde (Neal Stephenson)
 * Making Embedded Systems (Elecia White)
+* The Car Hacking handbook

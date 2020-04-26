@@ -1,37 +1,37 @@
 ---
-title: "aviation"
+title: "Aviation"
 description: "Aviation-related stuff that I do: where I fly, what I fly, etc."
-date: "2015-09-16"
+date: 2020-4-25
 categories:
   - "aviation"
 ---
 
-Training/Endorsements
----------------------
+Aviation-related stuff that I do: where I fly, what I fly, etc.
+
+# Training/Endorsements
+* IFR Rating (Rainier Flight Service)
 * Private Pilot License (Rainier Flight Service)
 * Mountain Flying Course (Rainier Flight Service)
 * High-Performance Endorsement (Rainier Flight Service)
 * Complex Endorsement (Spanaflight)
-* Tailwheel Endorsement (Aerodynamic Aviation)
+* Tailwheel Endorsement (Aerodynamic Aviation, Cub Flying)
 * Spin Training (Aerodynamic Aviation)
 * Seaplane Rating (Alaska Floats & Skis)
 * Bush Flying Course (Alaska Floats & Skis)
 * Glider intro flights (Puget Sound Soaring Association)
 
-Adventures
-----------
+# Adventures
 * Alaska Bush & Seaplane training
 * Idaho's nicest camping strips
-* [Fly around Maui County (Hawaii)](./maui_county)
-* [Tips for taking pictures from an aircraft](./airplane_photography)
+* [Fly around Maui County (Hawaii)](maui_county)
+* [Tips for taking pictures from an aircraft](airplane_photography)
 
-### TODO
-* IFR Rating
+### Bucket List
 * Commercial Rating
 * Upset and unusual attitude recovery
+* Aerobatics
 
-Aircrafts
----------
+# Aircrafts
 ### Owned
 * Maule M5-180C (Sold)
 * Cessna 172D (1964)
@@ -59,8 +59,7 @@ Aircrafts
 * Cirrus SR22T
 * Bonanza V35
 
-Airports
---------
+# Airports
 
 ### Pacific Northwest
 * Renton (KRNT)
@@ -154,8 +153,7 @@ Airports
 - Cle Elum (S93)
 - Cedars North (W58)
 
-Navigation/Radio
-----------------
+# Navigation/Radio
 * Across the Cascades (Snoqualmie Pass, Stevens Pass, White Pass)
 * RNT-BFI Stadiums Transition
 * Fly around Mt Rainier
@@ -167,8 +165,7 @@ Navigation/Radio
 - Public Fly-In (AOPA or other)
 - Oshkosh
 
-Tools
------
+# Tools
 * ForeFlight
 * Stratus II
 * Bad Elf GPS Pro
@@ -177,8 +174,7 @@ Tools
 * MyFlightBook.com
 * Sporty's Aspen Bundle
 
-Books
------
+# Books
 * The Killing Zone, 2nd Edition: How and Why Pilots Die (Paul Craig)
 * There I Wuz! Adventures from 3 decades in the Sky (Eric Auxier)
 * The Last Bush Pilots (Eric Auxier)

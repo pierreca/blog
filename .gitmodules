@@ -3,7 +3,6 @@
 	url = https://github.com/pierreca/pierreca.github.io.git
 	branch = master
 
-[submodule "themes/hyde-y"]
-	path = themes/hyde-y
-	url = https://github.com/enten/hyde-y.git
-	branch = master
+[submodule "themes/hyde-hyde"]
+	path = themes/hyde-hyde
+	url = https://github.com/htr3n/hyde-hyde.git

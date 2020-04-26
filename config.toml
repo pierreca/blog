@@ -3,12 +3,39 @@ languageCode = "en-us"
 title = "Making, Flying and Diving"
 copyright = "(c) 2016 Pierre Cauchois"
 metaDataFormat = "yaml"
-theme = "hyde-y"
+theme = "hyde-hyde"
+postNavigation = false
 
 [params]
     brand = "Making, Flying and Diving"
     topline = "Pierre Cauchois"
     sidebar = "left"
+    themeColor = "theme-base-0d"
+    layoutReverse = true
+
+[params.social]
     github = "pierreca"
     twitter = "pierreca"
     linkedin = "pierrecauchois"
+
+[menu]
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects"
+  [[menu.main]]
+    identifier = "aviation"
+    name = "Aviation"
+    url = "/aviation"
+  [[menu.main]]
+    identifier = "reads"
+    name = "Reads"
+    url = "/reads"
+  [[menu.main]]
+    identifier = "podcasts"
+    name = "Podcasts"
+    url = "/podcasts"
+  [[menu.main]]
+    identifier = "diving"
+    name = "Diving"
+    url = "/diving"
