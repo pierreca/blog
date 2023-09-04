@@ -1,13 +1,13 @@
 baseurl = "//pierreca.github.io/"
 languageCode = "en-us"
-title = "Making, Flying and Diving"
-copyright = "(c) 2016 Pierre Cauchois"
+title = "So much to learn!"
+copyright = "(c) 2023 Pierre Cauchois"
 metaDataFormat = "yaml"
-theme = "hyde-hyde"
+theme = ["hyde-hyde", "hugo-shortcode-gallery"]
 postNavigation = false
 
 [params]
-    brand = "Making, Flying and Diving"
+    brand = "So much to learn!"
     topline = "Pierre Cauchois"
     sidebar = "left"
     themeColor = "theme-base-0d"
@@ -15,7 +15,6 @@ postNavigation = false
 
 [params.social]
     github = "pierreca"
-    twitter = "pierreca"
     linkedin = "pierrecauchois"
 
 [menu]
@@ -29,8 +28,8 @@ postNavigation = false
     url = "/aviation"
   [[menu.main]]
     identifier = "reads"
-    name = "Reads"
-    url = "/reads"
+    name = "Bookshelf"
+    url = "/bookshelf"
   [[menu.main]]
     identifier = "podcasts"
     name = "Podcasts"
@@ -39,3 +38,7 @@ postNavigation = false
     identifier = "diving"
     name = "Diving"
     url = "/diving"
+  [[menu.main]]
+    identifier = "woodworking"
+    name = "Woodworking"
+    url = "/woodworking"

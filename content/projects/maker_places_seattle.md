@@ -39,27 +39,12 @@ Ada's technical books and cafe is awesome: its grown from a small bookstore into
 
 They have delicious homebrew coffee and pastries, plenty of magazines and books on every imaginable nerdy topic, from programming books to science to science fiction and a quite a few electronics kits for an impromptu week-end project.
 
-
-### Frys
-
-[Fry's Electronics](http://www.frys.com)
-```
-800 Garden Ave N, Renton, WA 98057
-(425) 525-0200
-```
-
-Frys Electronics is like a big department store for anything powered with electricity: from washing machines, to computers, to TV sets, gaming consoles, laptops, PC parts, electronics parts and tools, arduinos in short, everything, at a very decent price. This being said, like any chain/department store, dont expect any kind of service. you're on your own until you hit a pushy sales guy who barely knows what he's talking about.
-
-Fry's used to be awesome. Couldn't walk out without buying something. Now though, it doesn't seem to be doing well and I hardly ever go there anymore.
-
-
 # Makerspaces
 
 ### Seattle Makers
 [Seattle Makers](https://seattlemakers.org/)
 ```
-500 Aurora Ave North (Corner of Dexter and Mercer)
-Seattle WA 98109
+3300 Wallingford Ave N, Seattle WA 98103.
 (833)-2-MAKE-IT
 ```
 
@@ -100,15 +85,6 @@ Its a beautiful bookstore: large, but not too much, in an old building, and it j
 
 Pacific Supply is in the center of Capitol Hill. Theres nothing special to it, besides its location and cool old building. Useful if you lI've on the Hill and dont want to take a car just to buy a lightbulb or a piece of rope
 
-### Hardwick & Sons
-
-[Hardwick & Sons](http://www.ehardwicks.com)
-```
-4214 Roosevelt Way NE, Seattle, WA 98105
-(206) 632-1203
-```
-
-Hardwicks was featured in Popular Mechanics for a good reason: its a good old hardware shop that looks like Grandpas attic, except, cleaner. Its in the middle of UnI'versity district and has rarities at a price.
 
 ### Lowes, Home Depot, Harbor Freight, Sears
 
@@ -201,3 +177,25 @@ Makerhaus used to be an upscale makerspace in Fremont, and I'd been there only o
 ### Radioshack
 
 Radioshack had many stores all over town. They really tried to turn it around and become relevant again in the maker scene: hidden behind cellphone accessories aisles, you'd find basic tools, components and Arduinos. I have really good memories of picking up a couple of kits there to keep me busy during evenings of travel, before I moved here permanently. Oh well.
+
+### Hardwick & Sons
+
+[Hardwick & Sons](http://www.ehardwicks.com)
+```
+4214 Roosevelt Way NE, Seattle, WA 98105
+(206) 632-1203
+```
+
+Hardwicks was featured in Popular Mechanics for a good reason: its a good old hardware shop that looks like Grandpas attic, except, cleaner. Its in the middle of UnI'versity district and has rarities at a price. According to their owner, they got priced out and pushed out of U-District and have relocated to Post Falls, Idaho.
+
+### Frys
+
+[Fry's Electronics](http://www.frys.com)
+```
+800 Garden Ave N, Renton, WA 98057
+(425) 525-0200
+```
+
+Frys Electronics was like a big department store for anything powered with electricity: from washing machines, to computers, to TV sets, gaming consoles, laptops, PC parts, electronics parts and tools, arduinos in short, everything, at a very decent price. This being said, like any chain/department store, dont expect any kind of service. you're on your own until you hit a pushy sales guy who barely knows what he's talking about.
+
+Fry's used to be awesome. Couldn't walk out without buying something.
