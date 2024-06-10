@@ -4,7 +4,7 @@ set -ex
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo -t hyde-hyde
+hugo -t hyde-hyde -t hugo-shortcode-gallery
 
 # Go To Public folder
 cd public
