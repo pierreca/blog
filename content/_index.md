@@ -10,7 +10,7 @@ I live in Seattle, WA, a long way from my country of origin, France.
 
 This is a personal website that has nothing to do with my day job. I just need a place to keep track and sometimes show things I hacked together, experiences I've had, places I've been, books i've enjoyed... It's not necessarily the most up to date thing and some of it is really old.
 
-My day job is at [Cloudflare](https://www.cloudflare.com) as a systems engineer, on the Browser Isolation team. It's a far cry from my hardware roots, I can say I've walked up the stack all the way from the silicon to the cloud. Before that I spent 11 years at Microsoft, being a developer of embedded and mobile applications, meeting room technologies and later Azure IoT both as an individual contributor and as the manager of a team of 6. 
+I'm currently on a taking time off after 4 years at Cloudflare, where I helped build the Browser Isolation product that was started by a few former colleagues at S2 Systems. Before that, I spent 11 years at Microsoft in Azure IoT, as a manager and individual contributor, in Skype, some incubation projects and earlier in the field as a Developer Evangelist. Before Microsoft, I had started my career as a Field Application Engineer at Freescale, closer to the metal, as a specialist on ARM processors and embedded Linux: so you could say i walked my way up the stack from the silicon to the cloud.
 
 * [LinkedIn](www.linkedin.com/in/pierrecauchois/)
 
