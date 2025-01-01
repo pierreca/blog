@@ -41,6 +41,12 @@ So I dove head first into numerous books, some of those in this list, others in 
 * Hooked: How to Build Habit-Forming Products (Nir Eyal)
 * Stop the BS (Shane Mac)
 * The Burning Entrepreneur (Brad Feld)
+* The Infinite Game (Simon Sinek) 🤯
+* Hidden Potential: The Science of Achieving Greater Things (Adam Grant)
+* Give and Take (Adam M. Grant PhD)
+* Slow Productivity (Cal Newport)
+* Supercommunicators (Charles Duhigg)
+* Unreasonable Hospitality (Will Guidara) 🤯
 
 # Psychology and Neurosciences
 
@@ -56,6 +62,7 @@ Trying to understand the workings of the mind started as a tool to manage myself
 * Grit: The Power of Passion and Perseverance (Angela Duckworth) 🤯
 * Never Split the Difference: Negotiating As If Your Life Depended On It (Chris Voss) 🛠
 * Nudge: Improving Decisions about Health, Wealth, and Happiness (Richard Thaler and Cass Sunstein)
+* The Art of Impossible: A Peak Performance Primer (Steven Kotler)
 
 ## Emotional Intelligence
 * Mindsight: The New Science of Personal Transformation (Daniel J. Siegel) 🤯❤
@@ -64,12 +71,16 @@ Trying to understand the workings of the mind started as a tool to manage myself
 * Daring Greatly (Brené Brown) 🤯❤
 * Rising Strong (Brené Brown) 🤯❤
 * Hold Me Tight: Seven Conversations for a Lifetime of Love (The Dr. Sue Johnson Collection Book 1) (Dr. Sue Johnson) ❤
+* The First Rule of Mastery (Michael Gervais, Kevin Lake - contributor)
 
 ## Mindfulness
 * Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life (Jon Kabat-Zinn) ❤
 * Peak Mind: Find Your Focus, Own Your Attention, Invest 12 Minutes a Day (Amishi P. Jha) 🛠
 * Unlocked: Embrace Your Greatness, Find the Flow, Discover Success (George Mumford)
 * Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+* Sovereign: Reclaim Your Freedom, Energy, and Power in a Time of Distraction, Uncertainty, and Chaos (Emma Seppala) 🤯
+* Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body (Daniel Goleman, Richard Davidson)
+* Notes for the Journey Within: Essentials of the Art of Living (Gurudev Sri Sri Ravi Shankar)
 
 ## Personal Reinvention
 
@@ -81,6 +92,15 @@ The idea of changing lifestyle dramatically can be appealing sometimes. Always i
 * Entrepreneurial You: Monetize Your Expertise, Create Multiple Income Streams, and Thrive (Dorie Clark)
 * Reinventing You, With a New Preface: Define Your Brand, Imagine Your Future (Dorie Clark)
 * The Long Game: How to Be a Long-Term Thinker in a Short-Term World (Dorie Clark)
+* Never Play It Safe: A Practical Guide to Freedom, Creativity, and a Life You Love (Chase Jarvis)
+* Can't Hurt Me (David Goggins)
+* Outlive: The Science and Art of Longevity (Peter Attia MD, Bill Gifford) 🤯🛠
+* Die With Zero: Getting All You Can from Your Money and Your Life (Bill Perkins) 🤯🛠
+* Unplugged: Evolve from Technology to Upgrade Your Fitness, Performance & Consciousness (Phil White, Brian MacKenzie)
+* Build the Life You Want: The Art and Science of Getting Happier (Arthur C. Brooks, Oprah Winfrey)
+* From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life (Arthur C. Brooks)
+* The Road to Character (David Brooks)
+* The 5AM Club (Robin Sharma)
 
 # History, Politics & Society
 
@@ -97,6 +117,10 @@ Taking a step back from the constant noise of "news" and finding the larger patt
 * Permanent Record (Edward Snowden)
 * Sapiens: A Brief History of Humankind (Yuval Noah Harrari) 🤯
 * How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need (Bill Gates)
+* This Is How They Tell Me the World Ends (Nicole Perlroth) 🤯
+* Sandworm (Andy Greenberg)
+* Invisible Rulers (Renee DiResta) 🤯
+* Chip War (Chris Miller) 🤯
 
 # Making
 * The Hardware Hacker (Andrew "bunnie" Huang) 🛠❤
@@ -112,6 +136,7 @@ Taking a step back from the constant noise of "news" and finding the larger patt
 * Zero Trust Networks: Building Secure Systems in Untrusted Networks (Evan Gilman, Doug Barth)
 * The Art of Invisibility (Kevin Mitnick)
 * Tribe of Hackers (Marcus J. Carey, Jennifer Jin)
+* The Alignment Problem (Brian Christian)
 
 # Sports
 * Daniel's Running Formula (Jack Daniels)
