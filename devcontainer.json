@@ -1,0 +1,12 @@
+{
+    "name": "Hugo Development Container",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "ghcr.io/devcontainers/features/hugo": {
+            "version": "latest",
+            "extended": true
+        }
+    },
+    "forwardPorts": [1313]
+}
+  
