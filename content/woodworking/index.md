@@ -1,7 +1,6 @@
 ---
 title: "Woodworking"
 description: "Making things out of wood"
-date: 2023-8-27
 categories:
   - "projects"
 ---

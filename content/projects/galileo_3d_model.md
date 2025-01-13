@@ -1,7 +1,6 @@
 ---
 title: "A Simple 3D Model of the Intel Galileo Board"
 description: "A Simple 3D Model of the Intel Galileo Board"
-date: 2014-09-02
 categories:
   - "projects"
 ---

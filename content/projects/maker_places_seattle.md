@@ -1,7 +1,6 @@
 ---
 title: "Interesting Places for Makers in Seattle"
 description: "Where to find stuff to make stuff"
-date: 2020-4-25
 categories:
   - "projects"
 ---

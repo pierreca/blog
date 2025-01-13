@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 description: "Personal projects, not related to work"
-date: 2020-4-25
 categories:
   - "projects"
 ---
