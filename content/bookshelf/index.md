@@ -1,7 +1,6 @@
 ---
 title: "Bookshelf"
 description: "Books I've read - Books I want to read"
-date: 2023-8-26
 categories:
   - "reading"
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Building a Coffee Table With Engine Blocks"
 description: "Building a Coffee Table With Engine Blocks"
-date: 2020-4-25
 categories:
   - "projects"
 ---

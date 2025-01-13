@@ -1,7 +1,6 @@
 ---
 title: "Mountain-Biking"
 description: "Pedal up. Ride down as fast as possible. Repeat."
-date: 2023-8-28
 categories:
   - "mtb"
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Taking Pictures from Aircrafts"
 description: "What I learned trying to take pictures while in the air"
-date: "2015-09-16"
 categories:
   - "aviation"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Hi, I'm Pierre"
-date: 2023-8-26
 layout: _default/single
 ---
 

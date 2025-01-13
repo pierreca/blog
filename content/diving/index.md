@@ -1,7 +1,6 @@
 ---
 title: "Diving"
 description: "Scuba Diving Stuff"
-date: 2020-4-25
 categories:
   - "diving"
 ---

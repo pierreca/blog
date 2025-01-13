@@ -1,7 +1,6 @@
 ---
 title: "Building an S.A.O. for the Defcon 31 Badge"
 description: "My first attempt at producing something to give to other people at a conference"
-date: 2023-8-28
 categories:
   - "projects"
 ---

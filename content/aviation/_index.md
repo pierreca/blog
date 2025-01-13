@@ -1,7 +1,6 @@
 ---
 title: "Aviation"
 description: "Aviation-related stuff that I do: where I fly, what I fly, etc."
-date: 2020-4-25
 categories:
   - "aviation"
 ---

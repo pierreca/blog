@@ -1,7 +1,6 @@
 ---
 title: "Podcasts"
 description: "Podcasts I listen to"
-date: 2020-4-25
 categories:
   - "podcasts"
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Customizing Iconic Casio Watches"
 description: "F91-W and A178-W"
-date: 2023-8-29
 categories:
   - "projects"
 ---

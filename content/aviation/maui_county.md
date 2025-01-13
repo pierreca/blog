@@ -1,7 +1,6 @@
 ---
 title: "Flying around Maui"
 description: "My experience with Maui Flight Academy"
-date: "2015-09-16"
 categories:
   - "aviation"
 ---
