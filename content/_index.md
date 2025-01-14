@@ -13,4 +13,4 @@ I'm currently on a taking time off after 4 years at Cloudflare, where I helped b
 
 * [LinkedIn](www.linkedin.com/in/pierrecauchois/)
 
-_Site built with [Hugo](https://gohugo.io/) and with the [hyde-hyde](https://themes.gohugo.io/hyde-hyde/) theme, hosted on [Github Pages](https://pages.github.com/)_
+_Site built with [Hugo](https://gohugo.io/) and with the [hyde-hyde](https://themes.gohugo.io/triple-hyde/) theme, hosted on [Github Pages](https://pages.github.com/)_
